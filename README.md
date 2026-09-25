@@ -9,12 +9,12 @@
 | 2b | How Terraform uses providers | 3 | [How Terraform works with plugins](https://developer.hashicorp.com/terraform/plugin/how-terraform-works) |
 | 2c | Configuration with multiple providers | 24 | [Configure Terraform providers](https://developer.hashicorp.com/terraform/tutorials/configuration-language/configure-providers) |
 | 2d | How Terraform uses and manages state | 7, 16 | [Purpose of state](https://developer.hashicorp.com/terraform/language/v1.12.x/state/purpose) |
-| 3a | Describe the Terraform workflow | 2, 5 | [Core workflow](https://developer.hashicorp.com/terraform/intro/v1.12.x/core-workflow) |
+| 3a | Describe the Terraform workflow | [2](./days/02/README.md), 5 | [Core workflow](https://developer.hashicorp.com/terraform/intro/v1.12.x/core-workflow) |
 | 3b | Initialize a working directory | 3 | [Command: init](https://developer.hashicorp.com/terraform/cli/v1.12.x/commands/init) |
 | 3c | Validate a configuration | 6 | [Command: validate](https://developer.hashicorp.com/terraform/cli/v1.12.x/commands/validate) |
 | 3d | Generate and review a plan | 5, 27, 34 | [Command: plan](https://developer.hashicorp.com/terraform/cli/v1.12.x/commands/plan) |
-| 3e | Apply changes | 2, 5 | [Command: apply](https://developer.hashicorp.com/terraform/cli/v1.12.x/commands/apply) |
-| 3f | Destroy infrastructure | 2 | [Command: destroy](https://developer.hashicorp.com/terraform/cli/v1.12.x/commands/destroy) |
+| 3e | Apply changes | [2](./days/02/README.md), 5 | [Command: apply](https://developer.hashicorp.com/terraform/cli/v1.12.x/commands/apply) |
+| 3f | Destroy infrastructure | [2](./days/02/README.md) | [Command: destroy](https://developer.hashicorp.com/terraform/cli/v1.12.x/commands/destroy) |
 | 3g | Formatting and style | 6, 22 | [Command: fmt](https://developer.hashicorp.com/terraform/cli/v1.12.x/commands/fmt) |
 | 4a | Differentiate `resource` and `data` blocks | 8, 25 | [Data sources](https://developer.hashicorp.com/terraform/language/v1.12.x/data-sources) |
 | 4b | Resource attributes and cross-references | 9 | [References to named values](https://developer.hashicorp.com/terraform/language/v1.12.x/expressions/references) |
